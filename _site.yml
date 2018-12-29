@@ -1,12 +1,11 @@
-name: "PointNineFour"
+name: "pointninefour"
 output_dir: "docs"
 navbar:
-  title: "PointNineFour"
+  title: "pointninefour"
   left:
   - text: "Home"
-   href: index.html
+    href: index.html
   - text: "Speed and Distance"
-   href: speed-and-distance.html
+    href: mnio.html
 output:
   html_document:
- theme: cosmo
